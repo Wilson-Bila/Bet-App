@@ -14,7 +14,7 @@
 ![Imagem mensagem](mensagem.png)
 
 <div>
-<h1>The after lose or win:</h1> 
+<h1>After lose or win:</h1> 
 </div>
 
 ![Imagem fim](fim.png)
